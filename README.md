@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Rayyan Zammer</h1>
+<h1 align="center">Hey!, I'm Rayyan Zameer</h1>
 <h3 align="center">Currently pursuing Computer Science and Engineering in MANIT Bhopal</h3>
 
 <h3 align="left">Connect with me:</h3>
